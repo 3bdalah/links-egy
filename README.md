@@ -1,6 +1,6 @@
 # `Structure App`
 
-C:.
+```C:.
 ├───assests
 ├───components
 │   ├───header
@@ -9,3 +9,4 @@ C:.
 ├───Data
 ├───utils
 └───views
+```
