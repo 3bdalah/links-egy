@@ -1,72 +1,179 @@
 {
-    "links":[
-       {
-           "games":[
-            {
-                "id":1,
-                "name":"health",
-                "content":"info about link",
-                "category":"games",
-                "link": "https://google.com",
-                "details" : "dowenload games"
-            },
-            {
-                "id":2,
-                "name":"health 2",
-                "content":"info about link",
-                "category":"games",
-                "link": "https://google.com",
-                "details" : "follow last news games"
-            },
-            {
-                "id":3,
-                "name":"health3",
-                "content":"info about link",
-                "category":"games",
-                "link": "https://google.com",
-                "details" : "cracked games"
-            },
-            {
-                "id":4,
-                "name":"health4",
-                "content":"info about link",
-                "category":"games",
-                "link": "https://google.com",
-                "details" : "last top games games"
-            }
-           ]
-       },
-       {
-        "news":[
-         {
-             "id":1,
-             "name":"news ",
-             "content":"info about link",
-             "category":"news",
-             "link": "https://google.com"
-         },
-         {
-             "id":2,
-             "name":"news  2",
-             "content":"info about link",
-             "category":"news",
-             "link": "https://google.com"
-         },
-         {
-             "id":3,
-             "name":"news 3",
-             "content":"info about link",
-             "category":"news",
-             "link": "https://google.com"
-         },
-         {
-             "id":4,
-             "name":"news 4",
-             "content":"info about link",
-             "category":"news",
-             "link": "https://google.com"
-         }
-        ]
-    }
-    ]
+    "links": [{
+                    "id": 1,
+                    "name": "health",
+                    "content": "info about link",
+                    "category": "games",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 2,
+                    "name": "health 2",
+                    "content": "info about link",
+                    "category": "health",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 3,
+                    "name": "health3",
+                    "content": "info about link",
+                    "category": "police",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 4,
+                    "name": "health4",
+                    "content": "info about link",
+                    "category": "design",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 5,
+                    "name": "news",
+                    "content": "info about link",
+                    "category": "news",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 6,
+                    "name": "news 2",
+                    "content": "info about link",
+                    "category": "programming",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 7,
+                    "name": "news3",
+                    "content": "info about link",
+                    "category": "AI",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 8,
+                    "name": "news4",
+                    "content": "info about link",
+                    "category": "news",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 9,
+                    "name": "news",
+                    "content": "info about link",
+                    "category": "education",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 10,
+                    "name": "news 2",
+                    "content": "info about link",
+                    "category": "english",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 11,
+                    "name": "news3",
+                    "content": "info about link",
+                    "category": "freelance",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 12,
+                    "name": "news4",
+                    "content": "info about link",
+                    "category": "travel",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 13,
+                    "name": "news",
+                    "content": "info about link",
+                    "category": "jobs",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 14,
+                    "name": "news 2",
+                    "content": "info about link",
+                    "category": "pc",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 15,
+                    "name": "news3",
+                    "content": "info about link",
+                    "category": "software",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                },
+                {
+                    "id": 16,
+                    "name": "news4",
+                    "content": "info about link",
+                    "category": "scurity",
+                    "link": "https://google.com",
+                    "details": "dowenload games",
+                    "featured":true,
+                    "topClicked":true,
+                     "numClicked" : 1
+                }
+            ]
 }
